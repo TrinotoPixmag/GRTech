@@ -19,9 +19,9 @@ This project provides a simple CRUD interface for managing Companies and Employe
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/yourusername/company-management.git
-cd company-management
-
+git clone https://github.com/TrinotoPixmag/GRTech
+cd GRTech/Backend
+ 
 composer install
 
 npm install
